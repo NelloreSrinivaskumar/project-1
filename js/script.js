@@ -1,6 +1,6 @@
 burger = document.querySelector('.burger')
 navBar = document.querySelector('.navbar')
-navList = document.querySelector('navlist')
+navList = document.querySelector('.navlist')
 rightNav = document.querySelector('.rightnav')
 
 
